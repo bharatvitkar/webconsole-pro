@@ -1,0 +1,15 @@
+var a=10;
+var b=5;
+var first_name="ranbir";
+var last_name="kapoor";
+console.log("my first console project");
+var name=first_name.concat(last_name);
+console.log(name);
+var add=a+b;
+console.log(add);
+var sub=a-b;
+console.log(sub);
+var m=a*b;
+console.log(m);
+var d=a/b;
+console.log(d);
